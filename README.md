@@ -9,7 +9,7 @@ It's been divided in two separated Excel files to create two separate tables and
 
 ## Purpose
 
-The purpose is to explore the data on Covid deaths and cases to get either a global vue and also focus in the figures of countries of interest (France - as it's my country
+The purpose is to explore the data on Covid deaths and cases to get a global vue and also focusing in the figures of countries of interest (France - as it's my country
 of residence, China, India, USA, UK).
 
 ## Tableau
